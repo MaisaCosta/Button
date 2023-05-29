@@ -1,0 +1,37 @@
+* {
+    color: white;
+}
+
+#one {
+    border: 1px solid rgb(66, 150, 151);
+    border-radius: 10px;
+    background-color: rgb(222, 228, 224);
+    color: rgb(94, 196, 187);
+    text-align: center;
+    width: 100px;
+    display: block;
+    margin: 40px;
+
+}
+
+#two {
+    border: 1px solid rgb(62, 208, 196);
+    border-radius: 50%;
+    background-color: rgb(62, 208, 196);
+    margin: 40px;
+    display: block;
+    width: 30px;
+    height: 30px;
+
+}
+
+button {
+    background-color: rgb(50, 118, 209);
+    border: 2px solid black;
+    padding: 3px 6px;
+    margin: 40px;
+    margin-top: 5px;
+
+}
+
+/* Para que saber a forma de fazer um comentario em Css */
